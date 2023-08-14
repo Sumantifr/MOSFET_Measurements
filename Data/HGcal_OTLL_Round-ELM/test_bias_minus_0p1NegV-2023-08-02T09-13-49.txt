@@ -1,0 +1,8 @@
+sample: test_bias_minus_0p1NegV
+measurement_type: iv_bias
+bias_voltage[V]: +5.000E-02
+voltage_begin[V]: -5.000E+00
+voltage_end[V]: +4.500E+01
+voltage_step[V]: +1.000E-01
+waiting_time[s]: +1.000E+00
+current_compliance[A]: +2.000E-04
